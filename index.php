@@ -1,3 +1,3 @@
 <?php  
-	echo "we are learn git now";
+	echo "we are learning git now";
 ?>
